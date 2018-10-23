@@ -1,0 +1,12 @@
+*.so
+*.o
+*.dylib
+*.dll
+*.nes
+*.fds
+*.ips
+*.ups
+/nestopia
+*.js
+*.bc
+.npmignore
