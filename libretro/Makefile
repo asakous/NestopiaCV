@@ -26,7 +26,7 @@ else ifneq ($(findstring MINGW,$(shell uname -a)),)
 endif
 
 LIBRETRO_DIR := libretro
-TARGET_NAME := nestopia
+TARGET_NAME := nestopiaCV
 
 # Unix
 ifeq ($(platform), unix)
